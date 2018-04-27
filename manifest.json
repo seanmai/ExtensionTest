@@ -14,6 +14,9 @@
     ],
     "background": {
         "scripts": ["background.js"]
+    },
+    "browser_action": {
+        "default_icon": "test_icon.png"
     }
 }
 
